@@ -1,0 +1,26 @@
+audio_path,reference_text,tag
+eval/audio/wer_01.wav,Can you tell me what this chapter is about,plain
+eval/audio/wer_02.wav,Please read the next page out loud,plain
+eval/audio/wer_03.wav,I would like a shorter answer this time,plain
+eval/audio/wer_04.wav,What did the teacher say about the exam,plain
+eval/audio/wer_05.wav,Summarise pages three to five for me,plain
+eval/audio/wer_06.wav,Could you speak a little more slowly,plain
+eval/audio/wer_07.wav,Which page talks about the main idea,plain
+eval/audio/wer_08.wav,I did not understand the last part,plain
+eval/audio/wer_09.wav,Give me an example from my notes,plain
+eval/audio/wer_10.wav,How long should my revision take tonight,plain
+eval/audio/wer_11.wav,Repeat the answer one more time please,plain
+eval/audio/wer_12.wav,What is the difference between these two ideas,plain
+eval/audio/wer_13.wav,How are mel frequency cepstral coefficients computed,technical
+eval/audio/wer_14.wav,What does the Viterbi algorithm find in a hidden Markov model,technical
+eval/audio/wer_15.wav,Explain connectionist temporal classification and the blank symbol,technical
+eval/audio/wer_16.wav,Why does Kneser Ney smoothing help an n gram language model,technical
+eval/audio/wer_17.wav,What is the role of the discrete cosine transform,technical
+eval/audio/wer_18.wav,How does beam search prune unlikely hypotheses,technical
+eval/audio/wer_19.wav,What is a weighted finite state transducer,technical
+eval/audio/wer_20.wav,Describe the conformer encoder architecture,technical
+eval/audio/wer_21.wav,How does wav2vec learn from unlabelled audio,technical
+eval/audio/wer_22.wav,What does the Baum Welch algorithm estimate,technical
+eval/audio/wer_23.wav,How is perplexity related to the language model,technical
+eval/audio/wer_24.wav,What is the recurrent neural network transducer,technical
+eval/audio/wer_25.wav,Why are triphones tied using decision trees,technical

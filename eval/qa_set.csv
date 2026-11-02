@@ -1,0 +1,26 @@
+id,question,gold_pages,in_scope
+q01,What are the four parts of a classical speech recognition system?,1,yes
+q02,Why is automatic speech recognition difficult?,1,yes
+q03,What is the fundamental frequency of the voice?,2,yes
+q04,What sampling rate does Whisper use?,2;8,yes
+q05,Why is speech analysed in short frames?,2,yes
+q06,What is the mel scale?,3,yes
+q07,How are MFCCs computed?,3,yes
+q08,How many dimensions does an MFCC vector with deltas have?,3,yes
+q09,How many states does a phoneme HMM usually have?,4,yes
+q10,What does the Viterbi algorithm do?,4;6,yes
+q11,What is a triphone?,4,yes
+q12,What is Kneser-Ney smoothing used for?,5,yes
+q13,How is perplexity defined?,5,yes
+q14,What is beam width in decoding?,6,yes
+q15,What is a lattice?,6,yes
+q16,What is the blank symbol in CTC?,7,yes
+q17,Why is RNN-T used for streaming recognition?,7,yes
+q18,How much training data was Whisper trained on?,8,yes
+q19,What is vocabulary biasing?,8,yes
+q20,How is word error rate calculated?,9,yes
+q21,Who won the football world cup in 2018?,,no
+q22,What is the capital city of Australia?,,no
+q23,How do I bake a chocolate cake?,,no
+q24,What is the boiling point of water at sea level?,,no
+q25,Who wrote the novel Pride and Prejudice?,,no
